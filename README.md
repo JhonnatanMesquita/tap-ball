@@ -12,7 +12,7 @@
 - <b>IMPOSSIBLE:</b> O jogador não possui tempo e a bola gira consideravelmente mais rápido que os demais modos;
 
 # Prévia
-![preview](https://game.jhonnatanmesquita.me/tap-ball/assets/preview/preview.gif)
+![preview](https://game.jhonnatanmesquita.com.br/tap-ball/assets/preview/preview.gif)
 
 # Ideia e motivação
 Esse é um 'remake' de um game que comecei a desenvolver durante a faculdade, pegando bastante carona no protótipo do artigo da [emanueleferonato](https://www.emanueleferonato.com/2016/02/11/html5-prototype-of-ios-game-circle-path-made-with-phaser/); <br/>
